@@ -1,4 +1,6 @@
 {
+  "homepage": "http://OlReyy.github.io/bundget_first",
+  "name": "budget_web_dev_simplify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
